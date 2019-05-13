@@ -34,6 +34,26 @@ Apps derive their local *state* from that shared changelog history.
 
     npm install -g @vue/cli
     npm install -g @vue/cli-service-global
+    
+-----------------
+### ToDo
+
+* Es braucht eine Liste von Teilnehmer*innen 
+* Es braucht Liste von neuen Teilnehmer*innen
+* Kallenderwochen mit Datum übersicht in einer Reihe
+* Namen-Paare pro Kalenderwoche
+* Es braucht ein Archiv, damit ein Histogramm erstellt werden kann (aber auch als backup)
+
++ NEUE sollen hintereinander mit bereits bestehenden Teilnehmer*innen eingeteilt werden
++ NEUE mit Ladendienstpraxis, können wie BESTEHENDEN eingeteilt werden
++ Abmelde, Option: abmelde-Datum, default=nach dem letzen mal bei dem man bereits eingetragen ist; Option: mit sofortiger Wirkung; Option: kann mich um nachfolge kümmern
++ Attribut: Zu wie vielt will man diese Aufgabe machen
++ Sonderbestellungen: weitere Leute werden für dieses Datum gesucht
++ Ladendienstpausen, mit angegebene Datum
++ Wiederholung-Intervalle einstellbar
++ Bei Pausen wird der Dienst nicht ins Histogramm eingezählt
++ Lieferpausen eintragen, diensthabende informieren
+
 
 
 #### resources
